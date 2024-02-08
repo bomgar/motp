@@ -41,7 +41,7 @@ func main() {
 		if *length < len(code) {
 			code = code[:*length]
 		}
-        fmt.Println(code)
+		fmt.Println(code)
 	}
 
 }
